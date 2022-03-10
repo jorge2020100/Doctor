@@ -1,2 +1,0 @@
-# Doctor
-Clase Doctor
